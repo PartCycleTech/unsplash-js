@@ -2,7 +2,6 @@
 
 lib
 coverage
-dist
 test.js
 
 node_modules
